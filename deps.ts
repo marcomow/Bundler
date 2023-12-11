@@ -15,7 +15,7 @@ export { default as ts } from "https://esm.sh/typescript@4.8.2";
 export * as terser from "https://esm.sh/terser";
 export * as JSONC from "https://deno.land/std@0.151.0/encoding/jsonc.ts";
 
-export * as postcss from "https://esm.sh/postcss";
+export * as postcss from "https://esm.sh/postcss@8.4.18";
 export { default as postcssValueParser } from "https://esm.sh/postcss-value-parser";
 export { default as postcssPresetEnv } from "https://esm.sh/postcss-preset-env";
 
